@@ -3,7 +3,7 @@
 Mainly highlights the **'Village'** scenario with **Day-Night** transitions.
 
 **Instructions:**
-**Copy the text file and paste it inside your cpp file to execute**
+**Copy the text file and paste it inside your cpp file to execute\n**
 -> Press **'N'** for Night Mode
 ->  Press **'D'** for Day Mode
 ->     Press **0** to Exit
