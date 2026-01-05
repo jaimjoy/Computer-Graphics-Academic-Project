@@ -1,6 +1,6 @@
 # Computer-Graphics-Academic-Project
-5 Scenarios includes City, Village, Village School, Hills and Sea Beach.
-Mainly highlights the **'Village'** scenario with **Day-Night** transitions.
+5 Scenarios includes City, Village, Village School, Hills and Sea Beach.<br>
+Mainly highlights the **'Village'** scenario with **Day-Night** transitions.<br>
 
 **Instructions:**<br>
 **Copy the text file and paste it inside your cpp file to execute**<br>
