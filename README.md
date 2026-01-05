@@ -3,6 +3,6 @@
 Mainly highlights the **'Village'** scenario with **Day-Night** transitions.
 
 **Instructions:**
-         -> Press 'N' for Night Mode
-         ->  Press 'D' for Day Mode
-         ->     Press 0 to Exit
+         -> Press **'N'** for Night Mode
+         ->  Press **'D'** for Day Mode
+         ->     Press **0** to Exit
